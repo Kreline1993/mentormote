@@ -1,0 +1,36 @@
+.bilde {
+    width: 25%;
+}
+.cat-bilde {
+    width:10%;
+}
+.button {
+    background-color: #4c59af; /* Blue */
+    border: 2px solid #000000;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  body {
+    background-image: url("playful-cute-cats-flat-item-set-cartoon-fluffy-kitties-kittens-tabbies-sitting-playing-lying-sleeping-isolated-vector-illustration-collection-pets-animals-concept_74855-13204.avif");
+  }
+  body {
+    background-color: lightgrey;
+    color: blue;
+  }
+  
+  h1 {
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(231, 11, 11);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    font-size-adjust: inherit;
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
